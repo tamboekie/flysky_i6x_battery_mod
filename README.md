@@ -13,7 +13,7 @@ Components
 
 
 ### TP4056 module
-This module will both charge and protect single cell (1S) Li-Ion batteries with a cell voltage of 3.6V or 3.7V. The module actually includes a DW01 which takes care of the battery protection side. Note that it will only protect the battery from a over-discharge level of 2.4V, which is far too low for normal conditions. It is up to the user to stop discharging the battery at a more sensible value - probably 3.5V for a Li-Ion  battery under a moderate load. See <https://lygte-info.dk/info/BatteryChargePercent UK.html> for more information on this topic.
+This module will both charge and protect single cell (1S) Li-Ion batteries with a cell voltage of 3.6V or 3.7V. The module actually includes a DW01 which takes care of the battery protection side. Note that it will only protect the battery from a over-discharge level of 2.4V, which is far too low for normal conditions. It is up to the user to stop discharging the battery at a more sensible value - probably 3.5V for a Li-Ion  battery under a moderate load. I highly recommend reading the information at [lygte-info.dk/info/BatteryChargePercent UK](https://lygte-info.dk/info/BatteryChargePercent UK.html) for more information on this topic.
 ![](./README_files/pasted_image008.jpg)
  
 
