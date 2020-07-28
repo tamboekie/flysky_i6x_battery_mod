@@ -33,7 +33,7 @@ The final result worked quite well. I glued it in place with a glue-gun, which m
 
 
 ## Measure capacity
-While I did not really need to estimate the capacity of the battery if it was new, I was curious to know how much capacity was left in the old battery that I chose for this project. So I rigged up a resistor load to draw about 160mA-180mA, a value I felt was reasonable for the TX to draw, and then logged the battery voltage as it drained using an [Arduino Uno](./battmonitor.ino].  From here, I did some basic Ohm's law math to work out the capacity.
+While I did not really need to estimate the capacity of the battery if it was new, I was curious to know how much capacity was left in the old battery that I chose for this project. So I rigged up a resistor load to draw about 160mA-180mA, a value I felt was reasonable for the TX to draw, and then logged the battery voltage as it drained using an [Arduino Uno](./battmonitor.ino).  From here, I did some basic Ohm's law math to work out the capacity.
 
 ![](./README_files/pasted_image004.jpg)
 
