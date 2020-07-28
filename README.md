@@ -90,7 +90,7 @@ I measured the 3.3V supplies when the battery was full (4.1V) and they both read
 ![](./README_files/pasted_image015.jpg)![](./README_files/pasted_image016.jpg)
 
 ## Final thoughts
-It all works as expected and I can now charge my Flysky i6X using a 5V micro-USB charger. It should have cost me around £6/£7 to achieve this, expect I bought the wrong battery initially, so worked out a tiny bit more. Technically, since I had the fallback  battery lying around, it could have cost me less.
+It all works as expected and I can now charge my Flysky i6X using a 5V micro-USB charger. It should have cost me around £6/£7 to achieve this, except I bought the wrong battery initially, so worked out a tiny bit more. Technically, since I had the fallback battery lying around, it could have cost me even less had I thought to use it from the start.
 
-On other thing: I should have done a side-by-side transmitter range test to make sure the lower supply voltage (3.7V Li-Ion vs. 6.0V AA batteries) did not affect range.
+One other thing: I should have done a side-by-side transmitter range test to make sure the lower supply voltage (3.7V Li-Ion vs. 6.0V AA batteries) did not affect range.
 
