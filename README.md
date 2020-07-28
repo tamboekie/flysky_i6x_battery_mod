@@ -1,5 +1,4 @@
 # Flysky i6X battery mod
-Created Saturday 25 July 2020
 
 
 Introduction
@@ -84,7 +83,7 @@ While I did not really need to estimate the capacity of the battery if it was ne
 ### Discharge voltage graph
 ![](./README_files/pasted_image.jpg)
 
-The battery lasted about 6h30 and had an estimated capacity of just over 1000mAh (it was sold as 2500mAh in about 10 years ago, so not bad). This should be good enough for multiple flights.
+The battery lasted about 6h30 and had an estimated capacity of just over 1000mAh (it was sold as 2500mAh about 10 years ago, so it has lasted well enough). This should be good enough for multiple flights.
 
 Calibrate and test the TX
 -------------------------
